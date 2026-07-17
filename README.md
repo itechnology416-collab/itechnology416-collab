@@ -15,22 +15,10 @@
   
     
     <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
-    <div style="position: relative; z-index: 1;">
-<span style="color: #ff007f; text-shadow: 0 0 20px rgba(255,0,127,0.5);">╔═══════════════════════════════════════════════════════════════╗</span>
-<span style="color: #00ffcc; text-shadow: 0 0 15px rgba(0,255,204,0.4);">║  🧠 AI CORE: NEURAL NETWORK MATRIX <span style="color: #ff007f;">v4.2.0</span>                 ║</span>
-<span style="color: #00ffcc;">║  ╭─────────────────────────────────────────────────────╮   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node">○</span>══<span class="node node-d1">○</span>══<span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>  │   ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node node-d1">○</span>══<span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>  │   ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>══<span class="node">○</span>  │   ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>══<span class="node">○</span>══<span class="node node-d1">○</span>  │   ║</span>
-<span style="color: #00ffcc;">║  ╰─────────────────────────────────────────────────────╯   ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 15px rgba(255,0,127,0.3);">║  [PROCESSING]  <span class="progress-bar">██████████████░░░░░░  84%</span>  │  <span class="blink">⚡</span> ETA: 1.2s  ║</span>
-<span style="color: #00ffcc; text-shadow: 0 0 15px rgba(0,255,204,0.3);">║  [MEMORY]     ████████████████████  100% │  <span style="color: #00ffcc;">SYNAPSE OK</span>  ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 20px rgba(255,0,127,0.5);">╚═══════════════════════════════════════════════════════════════╝</span>
-    </div>
+    <p align="center">
+  <img src="./ai-banner.svg" alt="Cyberpunk AI Neural Network Matrix Banner" width="850">
+    </p>
+
   </pre>
 
   <!-- Animated Gradient Banner -->
