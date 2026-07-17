@@ -96,37 +96,108 @@ I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence 
 
 <br/>
 
-### 🕸️ Neural Architecture & Capabilities
+<!-- ========================================================= -->
+<!--                 🧬 CORE IDENTITY                          -->
+<!-- ========================================================= -->
 
-mermaid
-graph TD
-    A[🚀 IT-MAN] --> B[🧠 AI Augmentation]
-    A --> C[⚡ Fullstack Engineering]
-    A --> D[🎨 Graphics & Motion Design]
-    A --> E[🎮 Game Development]
-    
-    B --> F[Code Optimization]
-    B --> G[Pattern Recognition]
-    B --> H[Predictive Analytics]
-    
-    C --> I[React / Next.js]
-    C --> J[Python / C++ / Java]
-    C --> K[Flutter / Kotlin]
-    C --> R[PHP / Node.js / MySQL]
-    
-    D --> L[Adobe Suite]
-    D --> M[CapCut / Canva]
-    D --> N[3D Modeling]
-    
-    E --> O[Unity / Unreal]
-    E --> P[Game AI]
-    E --> Q[Procedural Generation]
-    
-    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000
-    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff
+<div align="center">
+
+# 🧬 Core Identity: The Digital Polymath
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Graphics+Designer;Motion+Designer;Game+Developer;Always+Building+the+Future"/>
+
+</div>
+
+---
+
+> ## 🚀 Who Am I?
+
+I am **IT-MAN**, an **AI-augmented Full Stack Engineer** operating at the intersection of:
+
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Engineering
+- 🎨 Graphics & Motion Design
+- 🎮 Game Development
+
+I combine **software engineering**, **creative design**, and **AI-powered workflows** to build modern, scalable, and visually engaging digital experiences.
+
+---
+
+# 🧠 Digital Ecosystem
+
+text
+                              🚀 IT-MAN
+                                  │
+        ┌──────────────┬──────────┼──────────┬──────────────┐
+        │              │          │          │              │
+        ▼              ▼          ▼          ▼
+   🤖 AI         💻 Full Stack   🎨 Design   🎮 Gaming
+        │              │          │          │
+   ┌────┴────┐     ┌───┴────┐   ┌─┴─────┐  ┌─┴────────┐
+   │         │     │        │   │       │  │          │
+🧠 LLMs   ⚡ Auto  ⚛ React  🐍 Python 🎬 AE   🎯 Unity
+🔍 Vision 🔄 APIs  ▲ Next   ☕ Java   🖌 PS    🕹 Unreal
+📊 NLP    🤖 Bots  📱 Flutter 🗄 SQL  🎨 Canva 🎲 AI NPCs
+
+
+---
+
+# ⚡ Technology Matrix
+
+| 🤖 Artificial Intelligence | 💻 Full Stack | 📱 Mobile | 🎨 Creative |
+|----------------------------|---------------|-----------|-------------|
+| Prompt Engineering | React | Flutter | Photoshop |
+| AI Automation | Next.js | Android | Premiere Pro |
+| LLM Integration | Node.js | Kotlin | After Effects |
+| Computer Vision | Express.js | Firebase | Canva |
+| NLP | Python | SQLite | CapCut |
+
+---
+
+# 🚀 Mission Status
+
+text
+🧠 AI ENGINE               ████████████████████ 100%
+
+⚛ FULL STACK              ████████████████████ 100%
+
+📱 MOBILE                  ███████████████████░ 95%
+
+🎨 CREATIVE DESIGN         ████████████████████ 100%
+
+🎮 GAME DEVELOPMENT        ████████████████░░░░ 80%
+
+☁ CLOUD COMPUTING          ██████████████░░░░░░ 70%
+
+🚀 INNOVATION              ████████████████████ ∞
+
+---
+
+# 💡 Philosophy
+
+> **Think Intelligently.**
+>
+> **Design Creatively.**
+>
+> **Build Efficiently.**
+>
+> **Innovate Fearlessly.**
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FFC6&center=true&width=900&lines=Code.;Create.;Innovate.;Repeat."/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **AI • Engineering • Creativity • Innovation**
+
+</div>
 class AIManager:
     """AI-Powered Development Core"""
     def __init__(self):
