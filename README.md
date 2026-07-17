@@ -51,40 +51,6 @@
   </table>
 </div>
 
----
-
-## 🧬 Core Identity: The Digital Polymath
-
-I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence of **artificial intelligence**, **full-stack engineering**, **creative design**, and **game development**. My workflow is augmented by AI, enabling me to push the boundaries of what's possible in digital creation.
-mermaid
-graph TD
-    A[🚀 IT-MAN] --> B[🧠 AI Augmentation]
-    A --> C[⚡ Fullstack Engineering]
-    A --> D[🎨 Graphics & Motion Design]
-    A --> E[🎮 Game Development]
-    
-    B --> F[Code Optimization]
-    B --> G[Pattern Recognition]
-    B --> H[Predictive Analytics]
-    
-    C --> I[React/Next.js]
-    C --> J[Python/C++]
-    C --> K[Flutter/Kotlin]
-    
-    D --> L[Adobe Suite]
-    D --> M[CapCut/Canva]
-    D --> N[3D Modeling]
-    
-    E --> O[Unity/Unreal]
-    E --> P[Game AI]
-    E --> Q[Procedural Generation]
-    
-    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000
-    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff       
-               
 
  
 </html>
