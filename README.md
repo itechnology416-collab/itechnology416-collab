@@ -74,7 +74,7 @@
 
 <hr>
 
-#<div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cyber Futuristic Banner"/>
   
   <br/><br/>
@@ -91,7 +91,7 @@ I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence 
 
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-  <img src="[https://github.com/itechnology416-collab/ai-banner.svg/blob/c84cccbbdd512eb690db4699d4c65a293acbbec9/gemini-svg%20(4).svg](https://github.com/itechnology416-collab/ai-banner.svg/blob/c84cccbbdd512eb690db4699d4c65a293acbbec9/gemini-svg%20(4).svg)" alt="GitHub Stats" />
+  <img src=" (https://github.com/itechnology416-collab/ai-banner.svg/blob/c84cccbbdd512eb690db4699d4c65a293acbbec9/gemini-svg%20(4).svg)" alt="GitHub Stats" />
 </div>
 
 <br/>
