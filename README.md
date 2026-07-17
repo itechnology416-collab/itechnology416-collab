@@ -16,7 +16,7 @@
     
     <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
     <p align="center">
-  <img src="./ai-banner.svg" alt="Cyberpunk AI Neural Network Matrix Banner" width="850">
+  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/fa2b604ab1be68125bdee2c65959abd48d781b04/gemini-svg.svg" alt="Cyberpunk AI Neural Network Matrix Banner" width="850">
     </p>
 
   </pre>
