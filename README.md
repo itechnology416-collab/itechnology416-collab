@@ -74,19 +74,35 @@
 
 <hr>
 
+#<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cyber Futuristic Banner"/>
+  
+  <br/><br/>
+  
+  <!-- Animated Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=%E2%9A%A1+System+Online...;%F0%9F%A7%AC+I+am+IT-MAN;%F0%9F%9A%80+The+Digital+Polymath;%E2%9A%9B%EF%B8%8F+Neurally-Enhanced+Developer;%E2%9A%94%EF%B8%8F+Full-Stack+%7C+Design+%7C+Game+Dev" alt="Typing SVG" />
+</div>
+
 ## 🧬 Core Identity: The Digital Polymath
 
-<blockquote>
-I am <strong>IT-MAN</strong>, a <strong>neurally-enhanced</strong> developer operating at the convergence of <strong>artificial intelligence</strong>, <strong>full-stack engineering</strong>, <strong>creative design</strong>, and <strong>game development</strong>. My workflow is explicitly augmented by AI, enabling me to bypass traditional development ceilings and push the absolute boundaries of digital creation.
-</blockquote>
+I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence of **artificial intelligence**, **full-stack engineering**, **creative design**, and **game development**. My workflow is augmented by AI, enabling me to push the boundaries of what's possible in digital creation.
 
-### 🛠️ System Architecture & Workflow
+<br/>
+
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FFCC&title_color=00FFCC&icon_color=FF007F" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+### 🕸️ Neural Architecture & Capabilities
 
 mermaid
 graph TD
     A[🚀 IT-MAN] --> B[🧠 AI Augmentation]
     A --> C[⚡ Fullstack Engineering]
-    A --> D[🎨 Graphics & Motion]
+    A --> D[🎨 Graphics & Motion Design]
     A --> E[🎮 Game Development]
     
     B --> F[Code Optimization]
@@ -94,8 +110,9 @@ graph TD
     B --> H[Predictive Analytics]
     
     C --> I[React / Next.js]
-    C --> J[Python / C++]
+    C --> J[Python / C++ / Java]
     C --> K[Flutter / Kotlin]
+    C --> R[PHP / Node.js / MySQL]
     
     D --> L[Adobe Suite]
     D --> M[CapCut / Canva]
@@ -103,17 +120,13 @@ graph TD
     
     E --> O[Unity / Unreal]
     E --> P[Game AI]
-    E --> Q[Procedural Gen]
+    E --> Q[Procedural Generation]
     
-    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000,font-weight:bold
-    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
-    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
-    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
-    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
-    
-    classDef subNodes fill:#111424,stroke:#45475a,stroke-width:1px,color:#cdd6f4,font-family:monospace;
-    class F,G,H,I,J,K,L,M,N,O,P,Q subNodes;
-
+    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000
+    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff
 class AIManager:
     """AI-Powered Development Core"""
     def __init__(self):
