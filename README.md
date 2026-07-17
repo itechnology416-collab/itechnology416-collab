@@ -10,22 +10,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
-  <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 15px; border-radius: 12px; display: inline-block; border: 1px solid #ff007f; box-shadow: 0 0 30px rgba(0,255,204,0.2);">
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║  🧠 AI CORE: NEURAL NETWORK MATRIX v4.2.0                 ║
-    ║  ╭─────────────────────────────────────────────────────╮   ║
-    ║  │  ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○  │   ║
-    ║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║
-    ║  │  ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○  │   ║
-    ║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║
-    ║  │  ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○  │   ║
-    ║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║
-    ║  │  ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○  │   ║
-    ║  ╰─────────────────────────────────────────────────────╯   ║
-    ║  [PROCESSING]  ██████████████░░░░░░  84%  │  ETA: 1.2s  ║
-    ║  [MEMORY]     ████████████████████  100% │  SYNAPSE OK  ║
-    ╚═══════════════════════════════════════════════════════════════╝
-  </pre>
+  <div align="center">
+
+`text
+╔════════════════════════════════════════════════════════════════════╗
+║                  🧠 AI CORE • NEURAL MATRIX v4.2.0               ║
+╠════════════════════════════════════════════════════════════════════╣
+║ ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○                      ║
+║ ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║                      ║
+║ ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○                      ║
+║ ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║                      ║
+║ ○══○══○══○══○══○══○══○══○══○══○══○══○══○══○                      ║
+╠════════════════════════════════════════════════════════════════════╣
+║ ⚡ STATUS     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   84%                          ║
+║ 🧠 MEMORY     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ONLINE                        ║
+║ 🚀 ENGINE     ACTIVE                                              ║
+║ 🤖 AI MODE    ENABLED                                             ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&width=700&lines=Neural+Network+Initialized;Artificial+Intelligence+Core;Full+Stack+Engineer;Graphics+Designer;Flutter+Developer;Always+Building+Something+Awesome..." />
+
+</div>
+<p align="center">
+<img src="assets/ai-core.svg" width="900"/>
+</p>
 
   <!-- Animated Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=280&section=header&text=AI%20%7C%20DEV%20%7C%20DESIGN%20%7C%20GAME&fontSize=55&fontAlignY=35&desc=Mastering%20the%20Multiverse%20of%20Technology&descAlignY=55&animation=fadeIn" width="100%" alt="Dynamic Banner"/>
