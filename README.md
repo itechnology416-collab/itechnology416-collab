@@ -67,23 +67,6 @@
   <!-- Animated Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=280&section=header&text=AI%20%7C%20DEV%20%7C%20DESIGN%20%7C%20GAME&fontSize=55&fontAlignY=35&desc=Mastering%20the%20Multiverse%20of%20Technology&descAlignY=55&animation=fadeIn" width="100%" alt="Dynamic Banner"/>
 
-  <!-- Comprehensive Tech Badges -->
-  <table>
-    <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=itechnology416-collab&label=AI+PROFILE+VIEWS&color=00ffcc&style=for-the-badge" alt="Views"/></td>
-      <td><img src="https://img.shields.io/badge/AI_MODEL-TensorFlow_|_PyTorch-00ffcc?style=for-the-badge&logo=tensorflow&logoColor=white&color=0a0a0a" alt="AI"/></td>
-      <td><img src="https://img.shields.io/badge/CODE-GPT_Enhanced-00ffcc?style=for-the-badge&logo=openai&logoColor=white&color=0a0a0a" alt="GPT"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/STATUS-NEURALLY_ENGAGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a" alt="Status"/></td>
-      <td><img src="https://img.shields.io/badge/STACK-Full_|_Mobile_|_Cloud-00ffcc?style=for-the-badge&logo=cloudflare&logoColor=white&color=0a0a0a" alt="Stack"/></td>
-      <td><img src="https://img.shields.io/badge/DESIGN-Adobe_|_3D_|_Motion-ff007f?style=for-the-badge&logo=adobe&logoColor=white&color=0a0a0a" alt="Design"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🧬 Core Identity: The Digital Polymath
 
 I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence of **artificial intelligence**, **full-stack engineering**, **creative design**, and **game development**. My workflow is augmented by AI, enabling me to push the boundaries of what's possible in digital creation.
