@@ -64,8 +64,6 @@
 <img src="assets/ai-core.svg" width="900"/>
 </p>
 
-  <!-- Animated Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=280&section=header&text=AI%20%7C%20DEV%20%7C%20DESIGN%20%7C%20GAME&fontSize=55&fontAlignY=35&desc=Mastering%20the%20Multiverse%20of%20Technology&descAlignY=55&animation=fadeIn" width="100%" alt="Dynamic Banner"/>
 
 ## 🧬 Core Identity: The Digital Polymath
 
