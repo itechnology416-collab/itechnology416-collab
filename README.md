@@ -421,6 +421,1630 @@ I'm actively seeking collaborations on:
 <div align="center"> <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 15px; border-radius: 10px; display: inline-block; border: 1px solid #ff007f;"> ╔════════════════════════════════════════════════════════════╗ ║ 🖥️ SYSTEM STATUS: ONLINE ║ ║ 🧠 AI ENGINE: ACTIVE ║ ║ ⚡ PERFORMANCE: OPTIMAL ║ ║ 📡 CONNECTION: STABLE ║ ║ 🎯 FOCUS: FULLSTACK DEVELOPMENT ║ ║ 🎮 GAME MODE: ACTIVE ║ ║ 🎨 DESIGN MODE: AVAILABLE ║ ║ ⏰ UPTIME: 99.99% ║ ╚════════════════════════════════════════════════════════════╝ </pre> </div>
 <!-- AI-Enhanced Footer --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=150&section=footer&animation=twinkling" width="100%" alt="AI Footer Banner"/><div align="center"> <span style="color: #00ffcc; font-size: 14px;"> 🤖 <strong>AI-Powered Development</strong> | 🎨 <strong>Creative Design</strong> | 🚀 <strong>Fullstack Excellence</strong> | 🧠 <strong>Neural Innovation</strong> | 🎮 <strong>Game Development</strong> </span> <br><br> <span style="color: #ff007f; font-size: 12px;"> ⚡ Last AI Analysis: July 2026 | Neural Engine: GPT-4 Optimized | Version: 2.0.0 </span> </div><!-- AI-Generated Meta Tags --><!-- Content optimized for AI-readability and human engagement --><!-- Neural Indexing: ENABLED --><!-- Digital Footprint: ACTIVE -->
 
+<!-- ====================================================== -->
+
+# 🌟 Personal Motto
+
+> **"Think. Design. Develop. Innovate."**
+
+---
+
+<p align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="700"/>
+
+</p>
+
+---
+
+# ⚡ Quick Facts
+
+🧠 Passionate about AI
+
+🎨 Love Creative Design
+
+🚀 Full Stack Developer
+
+📱 Mobile App Developer
+
+🖥 Linux Enthusiast
+
+💡 Problem Solver
+
+❤️ Open Source
+
+🎮 Gamer
+
+☕ Coffee Powered
+
+---
+
+<!-- ====================================================== -->
+<!--                  PART 2 - TECH STACK                   -->
+<!-- ====================================================== -->
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,javascript,typescript,html,css,bash" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,redux,sass,materialui" />
+</p>
+
+---
+
+## 🚀 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,fastapi" />
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase,sqlite" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,git,docker,vercel,netlify,cloudflare" />
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,npm,yarn" />
+</p>
+
+---
+
+## 🖥️ Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch" />
+</p>
+
+---
+
+## 🎨 Creative Suite
+
+<p>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠️ Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,figma,github" />
+</p>
+
+---
+
+## 🧩 Frameworks & Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Flutter-Advanced-02569B?style=for-the-badge&logo=flutter"/>
+
+<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python"/>
+
+</p>
+
+---
+
+# 💼 Core Expertise
+
+| Category | Technologies |
+|----------|--------------|
+| 🌐 Web | React, Next.js, HTML5, CSS3, JavaScript, TypeScript |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 📱 Mobile | Flutter, Android, Kotlin |
+| 🤖 AI | Python, TensorFlow, PyTorch, OpenAI APIs, Computer Vision |
+| 🗄️ Database | MySQL, PostgreSQL, MongoDB, Firebase, Supabase |
+| 🎨 Design | Photoshop, Premiere Pro, After Effects, Canva, CapCut |
+| ☁️ Cloud | Vercel, Netlify, Docker, Cloudflare |
+| 🐧 OS | Arch Linux, Ubuntu, Windows |
+
+---
+
+## 🚀 Development Workflow
+
+text
+💡 Idea
+   │
+   ▼
+📝 Planning
+   │
+   ▼
+🎨 UI / UX Design
+   │
+   ▼
+⚛️ Frontend Development
+   │
+   ▼
+⚙️ Backend Development
+   │
+   ▼
+🗄️ Database Integration
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+   │
+   ▼
+📈 Continuous Improvement
+
+
+---
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</p>
+
+
+
+<!-- ====================================================== -->
+<!--           PART 3 - AI & MACHINE LEARNING               -->
+<!-- ====================================================== -->
+
+# 🤖 Artificial Intelligence Portfolio
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Prompt+Engineering;AI+Automation"/>
+
+</p>
+
+---
+
+## 🧠 AI Mission
+
+> **Building intelligent software that transforms ideas into real-world solutions through Artificial Intelligence, Automation, and Modern Software Engineering.**
+
+---
+
+# 🚀 AI Expertise
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Deep Learning
+- Neural Networks
+- Classification
+- Regression
+- Model Training
+- Data Processing
+
+</td>
+
+<td width="50%">
+
+## 🧠 Artificial Intelligence
+
+- AI Applications
+- AI Automation
+- Chatbots
+- LLM Integration
+- Prompt Engineering
+- AI APIs
+- Intelligent Systems
+- AI Assistants
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ AI Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Automation-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧩 AI Skills
+
+### 💬 Large Language Models
+
+✔ OpenAI APIs
+
+✔ AI Assistants
+
+✔ Prompt Engineering
+
+✔ Retrieval-Augmented Generation (RAG)
+
+✔ AI Workflow Automation
+
+✔ Semantic Search
+
+✔ Conversational AI
+
+---
+
+### 👁 Computer Vision
+
+- Image Processing
+
+- Object Detection
+
+- OCR
+
+- Face Detection
+
+- AI Image Analysis
+
+- Camera Integration
+
+---
+
+### 📚 Natural Language Processing
+
+- Text Classification
+
+- Language Translation
+
+- Sentiment Analysis
+
+- Chatbots
+
+- Question Answering
+
+- Document Understanding
+
+---
+
+### ⚙ AI Automation
+
+- Workflow Automation
+
+- Smart Assistants
+
+- Process Optimization
+
+- Data Extraction
+
+- Intelligent Decision Support
+
+---
+
+# 🚀 AI Project Ideas
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Chatbot | Intelligent conversational assistant |
+| 👁 Vision AI | Object detection and image recognition |
+| 📝 OCR System | Extract text from images and documents |
+| 🎙 Speech Assistant | Voice recognition and synthesis |
+| 📄 Document AI | AI-powered document analysis |
+| 🌍 Translation AI | Multilingual translation assistant |
+| 📊 Predictive Analytics | Forecasting using ML models |
+| 🏫 Smart School System | AI-enhanced education management |
+
+---
+
+# 🧠 AI Development Workflow
+
+text
+💡 Problem Definition
+        │
+        ▼
+📊 Data Collection
+        │
+        ▼
+🧹 Data Cleaning
+        │
+        ▼
+🧠 Model Selection
+        │
+        ▼
+⚙️ Training
+        │
+        ▼
+📈 Evaluation
+        │
+        ▼
+🚀 Deployment
+        │
+        ▼
+🔄 Continuous Improvement
+
+
+---
+
+# 🌟 Current Focus
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🔗 AI Agent Development
+- ⚡ Intelligent Automation
+- 👁 Computer Vision
+- 📚 Natural Language Processing
+- ☁ Cloud AI Services
+- 🔒 Ethical & Responsible AI
+
+---
+
+# 🎯 Future Goals
+
+- 🚀 Build production-ready AI applications
+- 🤝 Contribute to open-source AI projects
+- 📱 Integrate AI into mobile and web apps
+- 🧩 Create AI-powered developer tools
+- 🌍 Develop solutions that positively impact communities
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itechnology416-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 *"Artificial Intelligence is not replacing developers—it empowers developers to build beyond imagination."*
+
+</p>
+
+<!-- ====================================================== -->
+<!--       PART 4 - GRAPHICS DESIGN & CREATIVE PORTFOLIO    -->
+<!-- ====================================================== -->
+
+# 🎨 Graphics Design & Creative Portfolio
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1000&color=FF61D2&center=true&vCenter=true&width=900&lines=Graphics+Designer;Brand+Identity;Motion+Graphics;Video+Editor;Creative+Content+Creator"/>
+
+</p>
+
+---
+
+## ✨ Design Philosophy
+
+> **"Great design communicates before a single word is read."**
+
+I enjoy transforming ideas into visually engaging experiences through branding, UI design, motion graphics, and digital content. Every project combines creativity with usability to create designs that are both attractive and effective.
+
+---
+
+# 🎨 Creative Skills
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🖌 Graphics Design
+
+- Logo Design
+- Brand Identity
+- Social Media Posters
+- Event Posters
+- Flyers & Brochures
+- Business Cards
+- Certificates
+- Roll-up Banners
+- YouTube Thumbnails
+- Web Banners
+
+</td>
+
+<td width="50%">
+
+## 🎬 Motion & Video
+
+- Motion Graphics
+- Promotional Videos
+- Intro & Outro Animation
+- YouTube Editing
+- Instagram Reels
+- TikTok Videos
+- Color Grading
+- Visual Effects
+- Typography Animation
+- Short Commercials
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Creative Toolbox
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🖼 Creative Services
+
+| 🎯 Category | 💼 Services |
+|------------|------------|
+| Branding | Logo Design, Brand Identity, Style Guides |
+| Social Media | Facebook, Instagram, LinkedIn, X Posters |
+| Print Design | Flyers, Certificates, Brochures, Roll-ups |
+| Digital Design | UI Graphics, Web Banners, Ads |
+| Video Editing | Reels, Shorts, Commercial Videos |
+| Motion Graphics | Animated Titles, Intros, Promos |
+
+---
+
+# 🌟 Featured Portfolio
+
+### 🎨 Branding
+
+- Modern Logo Design
+- Corporate Identity
+- Brand Guidelines
+- Business Stationery
+
+---
+
+### 📱 Social Media
+
+- LinkedIn Posts
+- Facebook Banners
+- Instagram Carousel Posts
+- Promotional Campaign Graphics
+
+---
+
+### 🎬 Video Production
+
+- Product Promotions
+- Educational Videos
+- Motion Graphics
+- Corporate Presentations
+
+---
+
+### 🖥 UI/UX Design
+
+- Dashboard Interfaces
+- Mobile App Mockups
+- Website Landing Pages
+- Admin Panels
+
+---
+
+# 🎨 Design Workflow
+
+text
+💡 Idea
+   │
+   ▼
+📝 Research
+   │
+   ▼
+✏ Sketch
+   │
+   ▼
+🎨 Design
+   │
+   ▼
+✨ Refinement
+   │
+   ▼
+📦 Delivery
+
+
+---
+
+# 📂 Portfolio Gallery
+
+<div align="center">
+
+| 🎨 Project | 📝 Description |
+|------------|----------------|
+| 🖼 Brand Identity | Complete visual branding package |
+| 📢 Marketing Campaign | Social media promotional graphics |
+| 🎓 Graduation Design | Invitations, Certificates, Posters |
+| 💻 UI Kit | Modern dashboard components |
+| 🎬 Motion Intro | Animated logo and title sequence |
+| 📱 Mobile Mockup | App interface concepts |
+
+</div>
+
+---
+
+# 🏅 Creative Strengths
+
+- 🎯 Attention to Detail
+- 🎨 Strong Color Theory
+- ✨ Clean Typography
+- 📐 Layout & Composition
+- 📷 Photo Manipulation
+- 🎬 Motion Design
+- 📱 Responsive Visual Content
+- 💡 Creative Problem Solving
+
+---
+
+# 📈 Current Creative Focus
+
+- ✨ Modern UI Design
+- 🎬 Motion Graphics
+- 🤖 AI-Assisted Design
+- 🖼 Brand Identity Systems
+- 📱 Social Media Content
+- 🎥 Cinematic Video Editing
+
+---
+
+<p align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="650"/>
+
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> **"Design is intelligence made visible." — Alina Wheeler**
+
+---
+
+<p align="center">
+
+⭐ **Creating visual experiences that inspire, engage, and communicate with purpose.**
+
+</p>
+
+
+<!-- ====================================================== -->
+<!--           PART 5 - FEATURED PROJECTS                   -->
+<!-- ====================================================== -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3500&pause=1000&color=00FFE5&center=true&width=900&lines=Building+Real+World+Solutions;Full+Stack+Projects;AI+Applications;Mobile+Development;Creative+Digital+Products"/>
+
+</p>
+
+---
+
+# 💼 Project Categories
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 🌐
+
+### Web Apps
+
+React
+
+Next.js
+
+Node.js
+
+</td>
+
+<td width="25%" align="center">
+
+## 🤖
+
+### AI
+
+Python
+
+OpenAI
+
+Automation
+
+</td>
+
+<td width="25%" align="center">
+
+## 📱
+
+### Mobile
+
+Flutter
+
+Android
+
+Kotlin
+
+</td>
+
+<td width="25%" align="center">
+
+## 🎨
+
+### Creative
+
+Graphics
+
+Motion
+
+Branding
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏫 Smart School Management System
+
+> A comprehensive school ERP platform for managing students, teachers, attendance, exams, fees, reports, and academic workflows.
+
+**Highlights**
+
+- 👨‍🎓 Student Information Management
+- 👩‍🏫 Teacher Management
+- 📚 Course & Subject Management
+- 📝 Exam & Grade Processing
+- 💰 Fee Collection
+- 📊 Analytics Dashboard
+- 📄 Report Generation
+- 📱 Responsive Interface
+
+**Tech Stack**
+
+`React` • `Node.js` • `MySQL` • `REST API`
+
+---
+
+## 🤖 AI Assistant Platform
+
+An intelligent assistant powered by modern AI technologies.
+
+### Features
+
+- AI Chat
+- Prompt Engineering
+- Smart Search
+- Automation
+- Knowledge Assistant
+- Natural Language Processing
+
+**Technology**
+
+Python • OpenAI API • `Node.js
+
+---
+
+## 📱 Flutter Mobile Applications
+
+Professional cross-platform mobile apps.
+
+### Projects Include
+
+- School Management App
+- Attendance App
+- Student Portal
+- Teacher Portal
+- Event Management
+- Offline Data Sync
+
+**Technology**
+
+`Flutter
+
+`Dart
+
+`Firebase
+
+---
+
+## 🌍 Modern Business Websites
+
+Professional websites designed for companies, startups, and organizations.
+
+### Features
+
+- Responsive Design
+- SEO Friendly
+- Fast Performance
+- Modern UI
+- Contact Forms
+- CMS Integration
+
+---
+
+## 🎨 Creative Design Portfolio
+
+Professional visual design services.
+
+### Categories
+
+- Brand Identity
+- Posters
+- Banners
+- Certificates
+- Social Media
+- Motion Graphics
+- Marketing Materials
+
+---
+
+# 🛠 Technologies Used Across Projects
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,flutter,kotlin,mysql,mongodb,firebase,supabase,git,docker,linux"/>
+
+</p>
+
+---
+
+# 📈 Development Process
+
+text
+Requirement Analysis
+        │
+        ▼
+Planning & Research
+        │
+        ▼
+System Architecture
+        │
+        ▼
+UI / UX Design
+        │
+        ▼
+Frontend Development
+        │
+        ▼
+Backend Development
+        │
+        ▼
+Database Design
+        │
+        ▼
+Testing
+        │
+        ▼
+Deployment
+        │
+        ▼
+Maintenance
+
+
+---
+
+# 🏆 Areas of Expertise
+
+| Domain | Expertise |
+|---------|-----------|
+| 🌐 Web Development | Full Stack Applications |
+| 🤖 Artificial Intelligence | AI Integration & Automation |
+| 📱 Mobile Development | Flutter & Android |
+| 🎨 Graphic Design | Branding & Motion Graphics |
+| 📊 Data Management | Database Design & Reporting |
+| ☁ Cloud Deployment | Modern Hosting Solutions |
+
+---
+
+# 📚 Currently Building
+
+- 🤖 AI-powered productivity tools
+- 🏫 Enterprise School Management System
+- 📱 Flutter applications
+- 🌐 Next.js business platforms
+- ⚙ Automation solutions
+- 🎨 Professional branding assets
+
+---
+
+# 🎯 Long-Term Vision
+
+> Build innovative software that combines **Artificial Intelligence**, **Modern Engineering**, and **Creative Design** to solve real-world challenges and create exceptional digital experiences.
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itechnology416-collab&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Innovation Mindset
+
+text
+💡 Imagine
+      │
+      ▼
+📝 Design
+      │
+      ▼
+💻 Develop
+      │
+      ▼
+🧪 Test
+      │
+      ▼
+🚀 Deploy
+      │
+      ▼
+📈 Improve
+
+
+---
+
+<p align="center">
+
+⭐ **"Every project is an opportunity to learn, innovate, and make a meaningful impact through technology."**
+
+</p>
+
+
+<!-- ====================================================== -->
+<!--        PART 6 - GITHUB ANALYTICS & STATISTICS          -->
+<!-- ====================================================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itechnology416-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itechnology416-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=itechnology416-collab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itechnology416-collab&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itechnology416-collab&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+> **Enable a GitHub Action in your profile repository to generate this automatically.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/itechnology416-collab/itechnology416-collab/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 📋 Profile Summary Cards
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itechnology416-collab&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itechnology416-collab&theme=tokyonight"/>
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itechnology416-collab&theme=tokyonight"/>
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itechnology416-collab&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+> *(Optional – Requires WakaTime account)*
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Developer Dashboard
+
+| Metric | Status |
+|---------|--------|
+| 🚀 Full Stack Development | ██████████ 100% |
+| 🤖 AI Development | █████████░ 90% |
+| 📱 Mobile Development | █████████░ 90% |
+| 🎨 Graphics Design | ██████████ 100% |
+| 🎬 Motion Graphics | ████████░░ 80% |
+| ☁ Cloud Technologies | ███████░░░ 70% |
+| 🐧 Linux | █████████░ 90% |
+
+---
+
+# 🧠 Daily Workflow
+
+text
+☕ Coffee
+    │
+    ▼
+💡 Research
+    │
+    ▼
+⌨️ Code
+    │
+    ▼
+🐞 Debug
+    │
+    ▼
+🧪 Test
+    │
+    ▼
+🚀 Deploy
+    │
+    ▼
+📚 Learn
+    │
+    ▼
+🔁 Repeat
+
+
+---
+
+# 📌 Development Philosophy
+
+text
+Write Clean Code
+        │
+        ▼
+Build Scalable Systems
+        │
+        ▼
+Create Beautiful Interfaces
+        │
+        ▼
+Integrate Artificial Intelligence
+        │
+        ▼
+Deliver Real Value
+
+---
+
+# 🎖 Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Adobe-Creative%20Suite-FF0000?style=for-the-badge&logo=adobe"/>
+
+<img src="https://img.shields.io/badge/Linux-Power%20User-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+# 🌟 Goals for 2026
+
+- ✅ Build impactful AI-powered applications
+- 🌍 Contribute more to open-source software
+- 📱 Publish production-ready Flutter apps
+- ☁️ Learn advanced cloud and DevOps practices
+- 🧠 Explore modern AI agents and LLM ecosystems
+- 🎨 Continue creating professional digital designs
+
+---
+
+<p align="center">
+
+## 🚀 *"Code. Create. Innovate. Repeat."*
+
+</p>
+
+
+<!-- ====================================================== -->
+<!--        PART 7 - GAMER • BRANDING • LIFESTYLE           -->
+<!-- ====================================================== -->
+
+# 🎮 Beyond the Code
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3500&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&lines=Code+Like+a+Developer.;Think+Like+an+Engineer.;Create+Like+a+Designer.;Play+Like+a+Gamer."/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+yaml
+Name: IT-MAN
+
+Role:
+  - Full Stack Engineer
+  - AI Developer
+  - Graphics Designer
+  - Flutter Developer
+
+Location: Ethiopia 🇪🇹
+
+Passion:
+  - Artificial Intelligence
+  - Open Source
+  - UI / UX Design
+  - Mobile Development
+  - Automation
+  - Motion Graphics
+
+Motto:
+  "Learn • Build • Share • Inspire"
+
+
+---
+
+# 🎮 Gamer Mode
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎯 Favorite Genres
+
+🎮 Open World
+
+⚔ RPG
+
+🚗 Racing
+
+🧩 Strategy
+
+🏹 Adventure
+
+🌌 Sci-Fi
+
+</td>
+
+<td width="50%">
+
+### ⚡ Gaming Style
+
+✔ Competitive
+
+✔ Team Player
+
+✔ Fast Learner
+
+✔ Strategic Thinker
+
+✔ Performance Optimizer
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🖥 Developer Workspace
+
+text
+🖥 Operating System
+
+🐧 Arch Linux
+
+🪟 Windows
+
+💻 VS Code
+
+⚡ Android Studio
+
+☕ Coffee
+
+🎧 Music
+
+🚀 GitHub
+
+💡 AI
+
+
+
+---
+
+# ⚙ Daily Tech
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,vscode,androidstudio,git,github,docker,figma"/>
+
+</p>
+
+---
+
+# 💡 Developer Mindset
+
+text
+Problem
+    │
+    ▼
+Research
+    │
+    ▼
+Design
+    │
+    ▼
+Code
+    │
+    ▼
+Debug
+    │
+    ▼
+Deploy
+    │
+    ▼
+Improve
+
+
+---
+
+# 🎯 Personal Strengths
+
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📱 Flutter Applications
+- 🌐 React & Next.js
+- ⚙ Backend APIs
+- 🎨 Graphic Design
+- 🎬 Motion Graphics
+- 🧠 Creative Problem Solving
+- 🚀 Continuous Learning
+
+---
+
+# 📖 Favorite Quote
+
+> **"Technology is best when it brings people together." — Matt Mullenweg**
+
+---
+
+# 🌍 Interests
+
+| 💻 Tech | 🎨 Creative | 🎮 Lifestyle |
+|---------|------------|--------------|
+| Artificial Intelligence | Photoshop | Gaming |
+| Open Source | Branding | Technology |
+| Flutter | Motion Graphics | Reading |
+| React | UI Design | Innovation |
+| Linux | Video Editing | Problem Solving |
+
+---
+
+# 📈 2026 Goals
+
+🎯 Master AI Agents
+
+🎯 Build SaaS Products
+
+🎯 Contribute to Open Source
+
+🎯 Publish Flutter Apps
+
+🎯 Launch Modern Web Platforms
+
+🎯 Learn Advanced Cloud Technologies
+
+🎯 Build a Strong Developer Brand
+
+---
+
+# 💬 Fun Facts
+
+text
+☕ Runs on Coffee
+
+🐧 Linux Enthusiast
+
+🤖 AI Explorer
+
+🎨 Creative Designer
+
+🎮 Gamer
+
+📱 Mobile Developer
+
+🚀 Loves Building Things
+
+🌍 Lifelong Learner
+
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+### ⭐ If you like my work, consider following me and starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/itechnology416-collab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+<!-- ====================================================== -->
+<!--          PART 8 - FOOTER & FINAL TOUCHES               -->
+<!-- ====================================================== -->
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/itechnology416-collab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_WEBSITE">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+> **"Code with logic. Design with creativity. Build with purpose."**
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+text
+💻 Full Stack Engineering
+🤖 Artificial Intelligence
+📱 Flutter Development
+⚙ Backend Architecture
+🌐 React & Next.js
+🎨 Creative Design
+🚀 Open Source
+☁ Cloud Technologies
+
+
+---
+
+# 📌 Repository Highlights
+
+⭐ AI Applications
+
+⭐ School Management System
+
+⭐ Flutter Projects
+
+⭐ React Applications
+
+⭐ Node.js APIs
+
+⭐ UI/UX Designs
+
+⭐ Graphics Portfolio
+
+⭐ Automation Tools
+
+---
+
+# 📜 Profile Roadmap
+
+text
+Learn
+  │
+  ▼
+Design
+  │
+  ▼
+Develop
+  │
+  ▼
+Deploy
+  │
+  ▼
+Share
+  │
+  ▼
+Improve
+  │
+  ▼
+Repeat
+
+
+---
+
+# ⚡ GitHub Actions
+
+Create:
+
+.github/workflows/snake.yml
+
+to automatically generate the contribution snake.
+
+The generated file will be:
+
+output/github-contribution-grid-snake-dark.svg
+
+which is already referenced inside this README.
+
+---
+
+# 📂 Recommended Repository Pins
+
+📌 School Management System
+
+📌 AI Assistant
+
+📌 Flutter App
+
+📌 React Dashboard
+
+📌 Node.js API
+
+📌 Graphics Portfolio
+
+---
+
+# 🏅 Certifications
+
+- Full Stack Development
+- Artificial Intelligence
+- Flutter Development
+- Graphic Design
+- UI / UX Design
+- Linux
+- Git & GitHub
+
+---
+
+# 📚 Favorite Technologies
+
+🐍 Python
+
+⚛ React
+
+▲ Next.js
+
+🟢 Node.js
+
+📱 Flutter
+
+☕ Java
+
+🧠 AI
+
+🎨 Adobe Creative Cloud
+
+🐧 Linux
+
+---
+
+# ❤️ Support
+
+If you like my work:
+
+⭐ Star my repositories
+
+🍴 Fork projects
+
+💬 Share feedback
+
+🤝 Collaborate on open-source projects
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00DBDE,100:FC00FF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=itechnology416-collab&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+**Happy Coding!**
+
+</p>
+
+
 
 
 This all-in-one README includes:
