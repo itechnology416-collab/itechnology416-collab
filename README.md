@@ -53,38 +53,67 @@
 </p>
 
 
+<!-- HEADER ANIMATION & WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&customColorList=0,ff007f,00ffcc,00aaff&height=250&section=header&text=IT-MAN&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" alt="IT-MAN Header Banner" />
+</p>
+
+<!-- DYNAMIC TYPING EFFECT -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=🧬+THE+DIGITAL+POLYMATH;🧠+AI-AUGMENTED+DEVELOPER;⚡+FULLSTACK+SOFTWARE+ENGINEER;🎨+GRAPHICS+%26+MOTION+DESIGNER;🎮+GAME+ARCHITECT" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- STATUS ARCHITECTURE / PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/normal-badge.php?username=YOUR_GITHUB_USERNAME&style=flat-square&label=SYSTEM+ACCESSES&color=ff007f" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/CORE__STATUS-ACTIVE%20⚡-00aaff?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/NEURAL__LINK-ESTABLISHED%20🧠-00ffcc?style=flat-square" alt="Neural Link" />
+</p>
+
+<hr>
+
 ## 🧬 Core Identity: The Digital Polymath
 
-I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence of **artificial intelligence**, **full-stack engineering**, **creative design**, and **game development**. My workflow is augmented by AI, enabling me to push the boundaries of what's possible in digital creation.
+<blockquote>
+I am <strong>IT-MAN</strong>, a <strong>neurally-enhanced</strong> developer operating at the convergence of <strong>artificial intelligence</strong>, <strong>full-stack engineering</strong>, <strong>creative design</strong>, and <strong>game development</strong>. My workflow is explicitly augmented by AI, enabling me to bypass traditional development ceilings and push the absolute boundaries of digital creation.
+</blockquote>
 
+### 🛠️ System Architecture & Workflow
 
+mermaid
 graph TD
     A[🚀 IT-MAN] --> B[🧠 AI Augmentation]
     A --> C[⚡ Fullstack Engineering]
-    A --> D[🎨 Graphics & Motion Design]
+    A --> D[🎨 Graphics & Motion]
     A --> E[🎮 Game Development]
     
     B --> F[Code Optimization]
     B --> G[Pattern Recognition]
     B --> H[Predictive Analytics]
     
-    C --> I[React/Next.js]
-    C --> J[Python/C++]
-    C --> K[Flutter/Kotlin]
+    C --> I[React / Next.js]
+    C --> J[Python / C++]
+    C --> K[Flutter / Kotlin]
     
     D --> L[Adobe Suite]
-    D --> M[CapCut/Canva]
+    D --> M[CapCut / Canva]
     D --> N[3D Modeling]
     
-    E --> O[Unity/Unreal]
+    E --> O[Unity / Unreal]
     E --> P[Game AI]
-    E --> Q[Procedural Generation]
+    E --> Q[Procedural Gen]
     
-    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000
-    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff
-    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000,font-weight:bold
+    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
+    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
+    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
+    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff,font-weight:bold
+    
+    classDef subNodes fill:#111424,stroke:#45475a,stroke-width:1px,color:#cdd6f4,font-family:monospace;
+    class F,G,H,I,J,K,L,M,N,O,P,Q subNodes;
+
 class AIManager:
     """AI-Powered Development Core"""
     def __init__(self):
