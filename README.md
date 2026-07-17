@@ -14,15 +14,15 @@
   <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 20px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
   <p align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-  </p>
     
     <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
     <p align="center">
   <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/fa2b604ab1be68125bdee2c65959abd48d781b04/gemini-svg.svg" alt="Cyberpunk AI Neural Network Matrix Banner" width="850">
     </p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
+  </p>
   </pre>
 
   <!-- Animated Gradient Banner -->
