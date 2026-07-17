@@ -12,7 +12,11 @@
   <!-- Advanced Neural Network ASCII Art -->
 
   <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 20px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
-  
+  <p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+  </p>
     
     <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
     <p align="center">
@@ -24,7 +28,7 @@
   <!-- Animated Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=280&section=header&text=AI%20%7C%20DEV%20%7C%20DESIGN%20%7C%20GAME&fontSize=55&fontAlignY=35&desc=Mastering%20the%20Multiverse%20of%20Technology&descAlignY=55&animation=fadeIn" width="100%" alt="Dynamic Banner"/>
 
-  <!-- Comprehensive Tech Badges -->
+  <!-- Comprehensive Tech Badges -->a
   <table>
     <tr>
       <td><img src="https://komarev.com/ghpvc/?username=itechnology416-collab&label=AI+PROFILE+VIEWS&color=00ffcc&style=for-the-badge" alt="Views"/></td>
