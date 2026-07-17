@@ -11,7 +11,7 @@
   
   <!-- Advanced Neural Network ASCII Art -->
 
-  <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 20px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
+  <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 10px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
   <p align="center">
 
 
