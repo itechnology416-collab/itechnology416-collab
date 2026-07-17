@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Neural Matrix Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=80&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
 
