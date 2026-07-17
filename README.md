@@ -11,63 +11,9 @@
   
   <!-- Advanced Neural Network ASCII Art -->
 
- <!--
-  =======================================================================
-  COMPLETE README.md FOR IT-MAN
-  With Animated Neural Network ASCII Art & Premium Developer Styling
-  =======================================================================
--->
-
-<div align="center">
-  <!-- Neural Matrix Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
-  
-  <!-- ============================================
-       ANIMATED NEURAL NETWORK ASCII ART
-       (CSS Animations Only - GitHub Compatible)
-       ============================================ -->
   <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 20px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
-    <style>
-      @keyframes borderPulse {
-        0%, 100% { border-color: #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); }
-        50% { border-color: #ff007f; box-shadow: 0 0 60px rgba(255,0,127,0.3), inset 0 0 40px rgba(255,0,127,0.1); }
-      }
-      @keyframes nodePulse {
-        0%, 100% { opacity: 1; text-shadow: 0 0 15px rgba(0,255,204,0.8); }
-        50% { opacity: 0.3; text-shadow: 0 0 5px rgba(0,255,204,0.1); }
-      }
-      @keyframes progressPulse {
-        0%, 100% { color: #00ffcc; }
-        50% { color: #ff007f; }
-      }
-      @keyframes scanLine {
-        0% { background-position: 0% 0%; }
-        100% { background-position: 0% 100%; }
-      }
-      .node { animation: nodePulse 1.5s ease-in-out infinite; display: inline-block; }
-      .node-d1 { animation-delay: 0.1s; }
-      .node-d2 { animation-delay: 0.2s; }
-      .node-d3 { animation-delay: 0.3s; }
-      .node-d4 { animation-delay: 0.4s; }
-      .node-d5 { animation-delay: 0.5s; }
-      .node-d6 { animation-delay: 0.6s; }
-      .node-d7 { animation-delay: 0.7s; }
-      .node-d8 { animation-delay: 0.8s; }
-      .node-d9 { animation-delay: 0.9s; }
-      .node-d10 { animation-delay: 1.0s; }
-      .node-d11 { animation-delay: 1.1s; }
-      .node-d12 { animation-delay: 1.2s; }
-      .node-d13 { animation-delay: 1.3s; }
-      .node-d14 { animation-delay: 1.4s; }
-      .blink { animation: blink 1s step-end infinite; }
-      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-      .progress-bar { animation: progressPulse 2s ease-in-out infinite; }
-      .scan-effect { 
-        background: linear-gradient(to bottom, transparent, rgba(0,255,204,0.1), transparent);
-        animation: scanLine 4s linear infinite;
-        background-size: 100% 200%;
-      }
-    </style>
+  
+    
     <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
     <div style="position: relative; z-index: 1;">
 <span style="color: #ff007f; text-shadow: 0 0 20px rgba(255,0,127,0.5);">╔═══════════════════════════════════════════════════════════════╗</span>
