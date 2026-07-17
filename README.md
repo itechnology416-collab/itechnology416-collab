@@ -91,7 +91,7 @@ I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence 
 
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/c84cccbbdd512eb690db4699d4c65a293acbbec9/gemini-svg%20(4).svg username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FFCC&title_color=00FFCC&icon_color=FF007F" alt="GitHub Stats" />
+  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/c84cccbbdd512eb690db4699d4c65a293acbbec9/gemini-svg%20(4).svg &show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FFCC&title_color=00FFCC&icon_color=FF007F" alt="GitHub Stats" />
 </div>
 
 <br/>
