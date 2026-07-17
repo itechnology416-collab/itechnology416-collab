@@ -10,471 +10,135 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Neural Network - Animated</title>
+
+ <!--
+  =======================================================================
+  COMPLETE README.md FOR IT-MAN
+  With Animated Neural Network ASCII Art & Premium Developer Styling
+  =======================================================================
+-->
+
+<div align="center">
+  <!-- Neural Matrix Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
+  
+  <!-- ============================================
+       ANIMATED NEURAL NETWORK ASCII ART
+       (CSS Animations Only - GitHub Compatible)
+       ============================================ -->
+  <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 20px; border-radius: 16px; display: inline-block; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
     <style>
-        /* ============================================
-           PREMIUM CYBERPUNK STYLING
-           ============================================ */
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap');
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #0a0a0a;
-            font-family: 'Share Tech Mono', 'Courier New', monospace;
-            padding: 20px;
-        }
-
-        /* ============================================
-           MAIN CONTAINER - GLASS MORPHISM + GLOW
-           ============================================ */
-        .neural-container {
-            position: relative;
-            padding: 30px;
-            background: rgba(10, 10, 10, 0.85);
-            border-radius: 24px;
-            border: 1px solid rgba(0, 255, 204, 0.3);
-            box-shadow: 
-                0 0 60px rgba(0, 255, 204, 0.1),
-                inset 0 0 60px rgba(0, 255, 204, 0.05);
-            backdrop-filter: blur(10px);
-            transition: all 0.5s ease;
-            max-width: 900px;
-            width: 100%;
-        }
-
-        .neural-container:hover {
-            border-color: rgba(255, 0, 127, 0.6);
-            box-shadow: 
-                0 0 80px rgba(0, 255, 204, 0.2),
-                0 0 120px rgba(255, 0, 127, 0.1),
-                inset 0 0 60px rgba(0, 255, 204, 0.1);
-        }
-
-        /* ============================================
-           ANIMATED GLOW ORB - BACKGROUND EFFECT
-           ============================================ */
-        .glow-orb {
-            position: absolute;
-            border-radius: 50%;
-            filter: blur(80px);
-            pointer-events: none;
-            z-index: 0;
-            animation: orbFloat 8s ease-in-out infinite;
-        }
-
-        .glow-orb-1 {
-            width: 300px;
-            height: 300px;
-            background: rgba(0, 255, 204, 0.15);
-            top: -100px;
-            right: -100px;
-            animation-delay: 0s;
-        }
-
-        .glow-orb-2 {
-            width: 200px;
-            height: 200px;
-            background: rgba(255, 0, 127, 0.12);
-            bottom: -80px;
-            left: -80px;
-            animation-delay: -3s;
-        }
-
-        .glow-orb-3 {
-            width: 150px;
-            height: 150px;
-            background: rgba(0, 170, 255, 0.1);
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            animation-delay: -5s;
-        }
-
-        @keyframes orbFloat {
-            0%, 100% { transform: translate(0, 0) scale(1); }
-            25% { transform: translate(30px, -30px) scale(1.1); }
-            50% { transform: translate(-20px, 20px) scale(0.9); }
-            75% { transform: translate(10px, -10px) scale(1.05); }
-        }
-
-        /* ============================================
-           ASCII ART - MAIN STYLING
-           ============================================ */
-        .ascii-art {
-            position: relative;
-            z-index: 1;
-            font-family: 'Share Tech Mono', 'Courier New', monospace;
-            font-size: 14px;
-            line-height: 1.4;
-            color: #00ffcc;
-            background: rgba(0, 0, 0, 0.7);
-            padding: 25px;
-            border-radius: 16px;
-            border: 1px solid rgba(0, 255, 204, 0.2);
-            box-shadow: 
-                inset 0 0 40px rgba(0, 255, 204, 0.05),
-                0 0 30px rgba(0, 255, 204, 0.05);
-            overflow: hidden;
-            white-space: pre;
-            text-shadow: 0 0 10px rgba(0, 255, 204, 0.3);
-            transition: all 0.4s ease;
-        }
-
-        .ascii-art:hover {
-            border-color: rgba(255, 0, 127, 0.4);
-            box-shadow: 
-                inset 0 0 60px rgba(0, 255, 204, 0.08),
-                0 0 50px rgba(0, 255, 204, 0.08);
-            transform: scale(1.01);
-        }
-
-        /* ============================================
-           SCANNING LINE ANIMATION
-           ============================================ */
-        .scan-line {
-            position: absolute;
-            z-index: 2;
-            width: 100%;
-            height: 2px;
-            background: linear-gradient(90deg, 
-                transparent, 
-                rgba(0, 255, 204, 0.8), 
-                transparent
-            );
-            animation: scanMove 4s linear infinite;
-            pointer-events: none;
-            opacity: 0.5;
-        }
-
-        @keyframes scanMove {
-            0% { top: 0; opacity: 0; }
-            10% { opacity: 0.8; }
-            90% { opacity: 0.8; }
-            100% { top: 100%; opacity: 0; }
-        }
-
-        /* ============================================
-           PULSING BORDER ANIMATION
-           ============================================ */
-        .pulse-border {
-            position: absolute;
-            top: -2px;
-            left: -2px;
-            right: -2px;
-            bottom: -2px;
-            border-radius: 26px;
-            background: linear-gradient(45deg, 
-                #00ffcc, #ff007f, #00ffcc, #ff007f
-            );
-            background-size: 300% 300%;
-            z-index: -1;
-            animation: gradientBorder 4s ease-in-out infinite;
-            opacity: 0.3;
-            filter: blur(2px);
-        }
-
-        @keyframes gradientBorder {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-
-        /* ============================================
-           NEURAL NODE PULSE ANIMATION
-           ============================================ */
-        .node-pulse {
-            display: inline-block;
-            animation: nodePulse 1.5s ease-in-out infinite;
-        }
-
-        @keyframes nodePulse {
-            0%, 100% { 
-                opacity: 1;
-                text-shadow: 0 0 10px rgba(0, 255, 204, 0.8);
-            }
-            50% { 
-                opacity: 0.4;
-                text-shadow: 0 0 30px rgba(0, 255, 204, 0.2);
-            }
-        }
-
-        /* ============================================
-           PROGRESS BAR ANIMATION
-           ============================================ */
-        .progress-bar {
-            display: inline-block;
-            animation: progressPulse 2s ease-in-out infinite;
-        }
-
-        @keyframes progressPulse {
-            0%, 100% { 
-                color: #00ffcc;
-                text-shadow: 0 0 15px rgba(0, 255, 204, 0.5);
-            }
-            50% { 
-                color: #ff007f;
-                text-shadow: 0 0 25px rgba(255, 0, 127, 0.5);
-            }
-        }
-
-        /* ============================================
-           MATRIX RAIN EFFECT (Background)
-           ============================================ */
-        .matrix-rain {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: 0;
-            overflow: hidden;
-            border-radius: 24px;
-            opacity: 0.1;
-        }
-
-        .matrix-rain span {
-            position: absolute;
-            color: #00ffcc;
-            font-size: 12px;
-            font-family: 'Share Tech Mono', monospace;
-            animation: matrixDrop linear infinite;
-        }
-
-        @keyframes matrixDrop {
-            0% { transform: translateY(-100%) scale(1); opacity: 0; }
-            10% { opacity: 1; }
-            90% { opacity: 1; }
-            100% { transform: translateY(100vh) scale(0.8); opacity: 0; }
-        }
-
-        /* ============================================
-           STATUS INDICATOR BLINK
-           ============================================ */
-        .status-blink {
-            animation: blink 1s step-end infinite;
-        }
-
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0; }
-        }
-
-        /* ============================================
-           RESPONSIVE DESIGN
-           ============================================ */
-        @media (max-width: 768px) {
-            .ascii-art {
-                font-size: 10px;
-                padding: 15px;
-                line-height: 1.3;
-                white-space: pre-wrap;
-                word-break: break-all;
-            }
-            
-            .neural-container {
-                padding: 15px;
-            }
-            
-            .glow-orb-1 {
-                width: 150px;
-                height: 150px;
-                top: -50px;
-                right: -50px;
-            }
-            
-            .glow-orb-2 {
-                width: 100px;
-                height: 100px;
-                bottom: -40px;
-                left: -40px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .ascii-art {
-                font-size: 7px;
-                padding: 10px;
-                line-height: 1.2;
-            }
-            
-            .neural-container {
-                padding: 10px;
-                border-radius: 16px;
-            }
-        }
-
-        /* ============================================
-           SCROLLBAR STYLING
-           ============================================ */
-        .ascii-art::-webkit-scrollbar {
-            width: 4px;
-        }
-
-        .ascii-art::-webkit-scrollbar-track {
-            background: rgba(0, 255, 204, 0.05);
-            border-radius: 2px;
-        }
-
-        .ascii-art::-webkit-scrollbar-thumb {
-            background: rgba(0, 255, 204, 0.3);
-            border-radius: 2px;
-        }
-
-        .ascii-art::-webkit-scrollbar-thumb:hover {
-            background: rgba(255, 0, 127, 0.4);
-        }
+      @keyframes borderPulse {
+        0%, 100% { border-color: #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); }
+        50% { border-color: #ff007f; box-shadow: 0 0 60px rgba(255,0,127,0.3), inset 0 0 40px rgba(255,0,127,0.1); }
+      }
+      @keyframes nodePulse {
+        0%, 100% { opacity: 1; text-shadow: 0 0 15px rgba(0,255,204,0.8); }
+        50% { opacity: 0.3; text-shadow: 0 0 5px rgba(0,255,204,0.1); }
+      }
+      @keyframes progressPulse {
+        0%, 100% { color: #00ffcc; }
+        50% { color: #ff007f; }
+      }
+      @keyframes scanLine {
+        0% { background-position: 0% 0%; }
+        100% { background-position: 0% 100%; }
+      }
+      .node { animation: nodePulse 1.5s ease-in-out infinite; display: inline-block; }
+      .node-d1 { animation-delay: 0.1s; }
+      .node-d2 { animation-delay: 0.2s; }
+      .node-d3 { animation-delay: 0.3s; }
+      .node-d4 { animation-delay: 0.4s; }
+      .node-d5 { animation-delay: 0.5s; }
+      .node-d6 { animation-delay: 0.6s; }
+      .node-d7 { animation-delay: 0.7s; }
+      .node-d8 { animation-delay: 0.8s; }
+      .node-d9 { animation-delay: 0.9s; }
+      .node-d10 { animation-delay: 1.0s; }
+      .node-d11 { animation-delay: 1.1s; }
+      .node-d12 { animation-delay: 1.2s; }
+      .node-d13 { animation-delay: 1.3s; }
+      .node-d14 { animation-delay: 1.4s; }
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .progress-bar { animation: progressPulse 2s ease-in-out infinite; }
+      .scan-effect { 
+        background: linear-gradient(to bottom, transparent, rgba(0,255,204,0.1), transparent);
+        animation: scanLine 4s linear infinite;
+        background-size: 100% 200%;
+      }
     </style>
-</head>
-<body>
-    <div class="neural-container">
-        <!-- Pulse Border Animation -->
-        <div class="pulse-border"></div>
-        
-        <!-- Glow Orbs -->
-        <div class="glow-orb glow-orb-1"></div>
-        <div class="glow-orb glow-orb-2"></div>
-        <div class="glow-orb glow-orb-3"></div>
-        
-        <!-- Matrix Rain Background -->
-        <div class="matrix-rain" id="matrixRain"></div>
-        
-        <!-- Scanning Line -->
-        <div class="scan-line"></div>
-
-        <!-- ==========================================
-             ANIMATED ASCII ART
-             ========================================== -->
-        <pre class="ascii-art" id="neuralAscii">
+    <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
+    <div style="position: relative; z-index: 1;">
 <span style="color: #ff007f; text-shadow: 0 0 20px rgba(255,0,127,0.5);">╔═══════════════════════════════════════════════════════════════╗</span>
 <span style="color: #00ffcc; text-shadow: 0 0 15px rgba(0,255,204,0.4);">║  🧠 AI CORE: NEURAL NETWORK MATRIX <span style="color: #ff007f;">v4.2.0</span>                 ║</span>
 <span style="color: #00ffcc;">║  ╭─────────────────────────────────────────────────────╮   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node-pulse">○</span>══<span class="node-pulse" style="animation-delay: 0.1s;">○</span>══<span class="node-pulse" style="animation-delay: 0.2s;">○</span>══<span class="node-pulse" style="animation-delay: 0.3s;">○</span>══<span class="node-pulse" style="animation-delay: 0.4s;">○</span>══<span class="node-pulse" style="animation-delay: 0.5s;">○</span>══<span class="node-pulse" style="animation-delay: 0.6s;">○</span>══<span class="node-pulse" style="animation-delay: 0.7s;">○</span>══<span class="node-pulse" style="animation-delay: 0.8s;">○</span>══<span class="node-pulse" style="animation-delay: 0.9s;">○</span>══<span class="node-pulse" style="animation-delay: 1.0s;">○</span>══<span class="node-pulse" style="animation-delay: 1.1s;">○</span>══<span class="node-pulse" style="animation-delay: 1.2s;">○</span>══<span class="node-pulse" style="animation-delay: 1.3s;">○</span>  │   ║</span>
+<span style="color: #00ffcc;">║  │  <span class="node">○</span>══<span class="node node-d1">○</span>══<span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>  │   ║</span>
 <span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node-pulse" style="animation-delay: 0.15s;">○</span>══<span class="node-pulse" style="animation-delay: 0.25s;">○</span>══<span class="node-pulse" style="animation-delay: 0.35s;">○</span>══<span class="node-pulse" style="animation-delay: 0.45s;">○</span>══<span class="node-pulse" style="animation-delay: 0.55s;">○</span>══<span class="node-pulse" style="animation-delay: 0.65s;">○</span>══<span class="node-pulse" style="animation-delay: 0.75s;">○</span>══<span class="node-pulse" style="animation-delay: 0.85s;">○</span>══<span class="node-pulse" style="animation-delay: 0.95s;">○</span>══<span class="node-pulse" style="animation-delay: 1.05s;">○</span>══<span class="node-pulse" style="animation-delay: 1.15s;">○</span>══<span class="node-pulse" style="animation-delay: 1.25s;">○</span>══<span class="node-pulse" style="animation-delay: 1.35s;">○</span>══<span class="node-pulse" style="animation-delay: 1.45s;">○</span>  │   ║</span>
+<span style="color: #00ffcc;">║  │  <span class="node node-d1">○</span>══<span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>  │   ║</span>
 <span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node-pulse" style="animation-delay: 0.2s;">○</span>══<span class="node-pulse" style="animation-delay: 0.3s;">○</span>══<span class="node-pulse" style="animation-delay: 0.4s;">○</span>══<span class="node-pulse" style="animation-delay: 0.5s;">○</span>══<span class="node-pulse" style="animation-delay: 0.6s;">○</span>══<span class="node-pulse" style="animation-delay: 0.7s;">○</span>══<span class="node-pulse" style="animation-delay: 0.8s;">○</span>══<span class="node-pulse" style="animation-delay: 0.9s;">○</span>══<span class="node-pulse" style="animation-delay: 1.0s;">○</span>══<span class="node-pulse" style="animation-delay: 1.1s;">○</span>══<span class="node-pulse" style="animation-delay: 1.2s;">○</span>══<span class="node-pulse" style="animation-delay: 1.3s;">○</span>══<span class="node-pulse" style="animation-delay: 1.4s;">○</span>══<span class="node-pulse" style="animation-delay: 1.5s;">○</span>  │   ║</span>
+<span style="color: #00ffcc;">║  │  <span class="node node-d2">○</span>══<span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>══<span class="node">○</span>  │   ║</span>
 <span style="color: #ff007f; text-shadow: 0 0 10px rgba(255,0,127,0.3);">║  │  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  │   ║</span>
-<span style="color: #00ffcc;">║  │  <span class="node-pulse" style="animation-delay: 0.25s;">○</span>══<span class="node-pulse" style="animation-delay: 0.35s;">○</span>══<span class="node-pulse" style="animation-delay: 0.45s;">○</span>══<span class="node-pulse" style="animation-delay: 0.55s;">○</span>══<span class="node-pulse" style="animation-delay: 0.65s;">○</span>══<span class="node-pulse" style="animation-delay: 0.75s;">○</span>══<span class="node-pulse" style="animation-delay: 0.85s;">○</span>══<span class="node-pulse" style="animation-delay: 0.95s;">○</span>══<span class="node-pulse" style="animation-delay: 1.05s;">○</span>══<span class="node-pulse" style="animation-delay: 1.15s;">○</span>══<span class="node-pulse" style="animation-delay: 1.25s;">○</span>══<span class="node-pulse" style="animation-delay: 1.35s;">○</span>══<span class="node-pulse" style="animation-delay: 1.45s;">○</span>══<span class="node-pulse" style="animation-delay: 1.55s;">○</span>  │   ║</span>
+<span style="color: #00ffcc;">║  │  <span class="node node-d3">○</span>══<span class="node node-d4">○</span>══<span class="node node-d5">○</span>══<span class="node node-d6">○</span>══<span class="node node-d7">○</span>══<span class="node node-d8">○</span>══<span class="node node-d9">○</span>══<span class="node node-d10">○</span>══<span class="node node-d11">○</span>══<span class="node node-d12">○</span>══<span class="node node-d13">○</span>══<span class="node node-d14">○</span>══<span class="node">○</span>══<span class="node node-d1">○</span>  │   ║</span>
 <span style="color: #00ffcc;">║  ╰─────────────────────────────────────────────────────╯   ║</span>
-<span style="color: #ff007f; text-shadow: 0 0 15px rgba(255,0,127,0.3);">║  [PROCESSING]  <span class="progress-bar">██████████████░░░░░░  84%</span>  │  <span class="status-blink">⚡</span> ETA: 1.2s  ║</span>
+<span style="color: #ff007f; text-shadow: 0 0 15px rgba(255,0,127,0.3);">║  [PROCESSING]  <span class="progress-bar">██████████████░░░░░░  84%</span>  │  <span class="blink">⚡</span> ETA: 1.2s  ║</span>
 <span style="color: #00ffcc; text-shadow: 0 0 15px rgba(0,255,204,0.3);">║  [MEMORY]     ████████████████████  100% │  <span style="color: #00ffcc;">SYNAPSE OK</span>  ║</span>
 <span style="color: #ff007f; text-shadow: 0 0 20px rgba(255,0,127,0.5);">╚═══════════════════════════════════════════════════════════════╝</span>
-        </pre>
     </div>
+  </pre>
 
-    <script>
-        // ============================================
-        // MATRIX RAIN EFFECT
-        // ============================================
-        function createMatrixRain() {
-            const container = document.getElementById('matrixRain');
-            const chars = '01';
-            const count = 50;
-            
-            for (let i = 0; i < count; i++) {
-                const span = document.createElement('span');
-                span.textContent = chars[Math.floor(Math.random() * chars.length)];
-                span.style.left = Math.random() * 100 + '%';
-                span.style.animationDuration = (Math.random() * 5 + 3) + 's';
-                span.style.animationDelay = (Math.random() * 5) + 's';
-                span.style.fontSize = (Math.random() * 8 + 8) + 'px';
-                span.style.opacity = Math.random() * 0.3 + 0.05;
-                container.appendChild(span);
-            }
-        }
+  <!-- Animated Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,40,50,60&height=280&section=header&text=AI%20%7C%20DEV%20%7C%20DESIGN%20%7C%20GAME&fontSize=55&fontAlignY=35&desc=Mastering%20the%20Multiverse%20of%20Technology&descAlignY=55&animation=fadeIn" width="100%" alt="Dynamic Banner"/>
 
-        // ============================================
-        // NEURAL NODE REALTIME ANIMATION
-        // ============================================
-        function animateNodes() {
-            const nodes = document.querySelectorAll('.node-pulse');
-            nodes.forEach((node, index) => {
-                const delay = (index % 14) * 0.1;
-                node.style.animationDelay = delay + 's';
-            });
-        }
+  <!-- Comprehensive Tech Badges -->
+  <table>
+    <tr>
+      <td><img src="https://komarev.com/ghpvc/?username=itechnology416-collab&label=AI+PROFILE+VIEWS&color=00ffcc&style=for-the-badge" alt="Views"/></td>
+      <td><img src="https://img.shields.io/badge/AI_MODEL-TensorFlow_|_PyTorch-00ffcc?style=for-the-badge&logo=tensorflow&logoColor=white&color=0a0a0a" alt="AI"/></td>
+      <td><img src="https://img.shields.io/badge/CODE-GPT_Enhanced-00ffcc?style=for-the-badge&logo=openai&logoColor=white&color=0a0a0a" alt="GPT"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/STATUS-NEURALLY_ENGAGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a" alt="Status"/></td>
+      <td><img src="https://img.shields.io/badge/STACK-Full_|_Mobile_|_Cloud-00ffcc?style=for-the-badge&logo=cloudflare&logoColor=white&color=0a0a0a" alt="Stack"/></td>
+      <td><img src="https://img.shields.io/badge/DESIGN-Adobe_|_3D_|_Motion-ff007f?style=for-the-badge&logo=adobe&logoColor=white&color=0a0a0a" alt="Design"/></td>
+    </tr>
+  </table>
+</div>
 
-        // ============================================
-        // PROGRESS BAR SIMULATION
-        // ============================================
-        function simulateProgress() {
-            const progressBar = document.querySelector('.progress-bar');
-            if (!progressBar) return;
-            
-            let progress = 84;
-            const interval = setInterval(() => {
-                progress += Math.random() * 2;
-                if (progress > 99) {
-                    progress = 84;
-                }
-                const filled = Math.floor(progress / 2);
-                const empty = 50 - filled;
-                progressBar.textContent = '█'.repeat(filled) + '░'.repeat(empty) + '  ' + Math.floor(progress) + '%';
-                
-                // Color change based on progress
-                if (progress > 90) {
-                    progressBar.style.color = '#ff007f';
-                } else if (progress > 70) {
-                    progressBar.style.color = '#ffaa00';
-                } else {
-                    progressBar.style.color = '#00ffcc';
-                }
-            }, 2000);
-        }
+---
 
-        // ============================================
-        // STATUS BLINK EFFECT
-        // ============================================
-        function blinkStatus() {
-            const blinkEl = document.querySelector('.status-blink');
-            if (blinkEl) {
-                setInterval(() => {
-                    blinkEl.style.opacity = blinkEl.style.opacity === '0' ? '1' : '0';
-                }, 500);
-            }
-        }
+## 🧬 Core Identity: The Digital Polymath
 
-        // ============================================
-        // INITIALIZATION
-        // ============================================
-        document.addEventListener('DOMContentLoaded', () => {
-            createMatrixRain();
-            animateNodes();
-            simulateProgress();
-            blinkStatus();
-        });
-
-        // ============================================
-        // RESIZE HANDLER FOR RESPONSIVENESS
-        // ============================================
-        window.addEventListener('resize', () => {
-            // Adjust font size for smaller screens
-            const ascii = document.querySelector('.ascii-art');
-            if (window.innerWidth < 768) {
-                ascii.style.fontSize = '10px';
-            } else if (window.innerWidth < 480) {
-                ascii.style.fontSize = '7px';
-            } else {
-                ascii.style.fontSize = '14px';
-            }
-        });
-    </script>
-</body>
+I am **IT-MAN**, a **neurally-enhanced** developer operating at the convergence of **artificial intelligence**, **full-stack engineering**, **creative design**, and **game development**. My workflow is augmented by AI, enabling me to push the boundaries of what's possible in digital creation.
+mermaid
+graph TD
+    A[🚀 IT-MAN] --> B[🧠 AI Augmentation]
+    A --> C[⚡ Fullstack Engineering]
+    A --> D[🎨 Graphics & Motion Design]
+    A --> E[🎮 Game Development]
+    
+    B --> F[Code Optimization]
+    B --> G[Pattern Recognition]
+    B --> H[Predictive Analytics]
+    
+    C --> I[React/Next.js]
+    C --> J[Python/C++]
+    C --> K[Flutter/Kotlin]
+    
+    D --> L[Adobe Suite]
+    D --> M[CapCut/Canva]
+    D --> N[3D Modeling]
+    
+    E --> O[Unity/Unreal]
+    E --> P[Game AI]
+    E --> Q[Procedural Generation]
+    
+    style A fill:#00ffcc,stroke:#ff007f,stroke-width:4px,color:#000
+    style B fill:#ff007f,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style C fill:#00aaff,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style D fill:#ff00aa,stroke:#00ffcc,stroke-width:2px,color:#fff
+    style E fill:#ffaa00,stroke:#00ffcc,stroke-width:2px,color:#fff       
+               
 
  
 </html>
