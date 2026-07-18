@@ -10,15 +10,37 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=80&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
-
-  <pre style="font-family: 'Courier New', monospace; color: #00ffcc; background: #0a0a0a; padding: 10px; border-radius: 16px; display: flex; border: 2px solid #00ffcc; box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); animation: borderPulse 3s ease-in-out infinite; position: relative; overflow: hidden; line-height: 1.5; text-shadow: 0 0 10px rgba(0,255,204,0.3);">
-  <p align="center">
-    
-    <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
-    <p align="center">
-  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/fa2b604ab1be68125bdee2c65959abd48d781b04/gemini-svg.svg" alt="Cyberpunk AI Neural Network Matrix Banner" width="850">
-    </p>
-  </pre>
+<pre style="
+  font-family: 'Courier New', monospace; 
+  color: #00ffcc; 
+  background: #0a0a0a; 
+  padding: 3%; /* Flexible padding based on container width */
+  margin: 2rem auto; /* Flexible margin, centers the element */
+  border-radius: 16px; 
+  display: flex; 
+  justify-conteq1nt: center; 
+  align-items: center;
+  flex-direction: column; 
+  border: 2px solid #00ffcc; 
+  box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); 
+  animation: borderPulse 3s ease-in-out infinite; 
+  position: relative; 
+  overflow: hidden; 
+  line-height: 1.5; 
+  text-shadow: 0 0 10px rgba(0,255,204,0.3);
+  box-sizing: border-box;
+  max-width: 900px; /* Optional constraint to keep it readable */
+  width: 100%;
+">
+  <!-- Scan effect overlay -->
+  <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
+  
+  <!-- Banner Image -->
+  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/fa2b604ab1be68125bdee2c65959abd48d781b04/gemini-svg.svg" 
+       alt="Cyberpunk AI Neural Network Matrix Banner" 
+       style="max-width: 100%; height: auto; position: relative; z-index: 1;">
+</pre>
+  
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
   </p>
