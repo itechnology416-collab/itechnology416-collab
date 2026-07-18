@@ -8,7 +8,9 @@
 <div align="center">
   <!-- Neural Matrix Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=80&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
-  
+  <p align="center">
+  <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/807816fb41d36d141ab3511381acd2b833625dcb/gemini-svg%20(6).svg" alt="IT-MAN Portfolio Banner" width="100%">
+</p>
   <!-- Advanced Neural Network ASCII Art -->
   <pre style="
   font-family: 'Courier New', monospace; 
