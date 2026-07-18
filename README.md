@@ -10,25 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=80&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
-<style>
-  /* Define the animations */
-  @keyframes borderPulse {
-    0%, 100% { 
-      box-shadow: 0 0 20px rgba(0,255,204,0.2), inset 0 0 20px rgba(0,255,204,0.05); 
-      border-color: rgba(0,255,204,0.5); 
-    }
-    50% { 
-      box-shadow: 0 0 45px rgba(0,255,204,0.7), inset 0 0 35px rgba(0,255,204,0.2); 
-      border-color: #00ffcc; 
-    }
-  }
-  @keyframes shineSweep {
-    0% { left: -100%; opacity: 0; }
-    15% { opacity: 1; }
-    85% { opacity: 1; }
-    100% { left: 200%; opacity: 0; }
-  }
-</style>
 
 <pre style="
   font-family: 'Courier New', monospace; 
