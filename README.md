@@ -10,47 +10,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=80&lines=IT-MAN;Fullstack+Architect;AI+%26+ML+Engineer;Graphics+Designer;Game+Developer;Neural+Network+Builder;Digital+Alchemist" alt="Typing Animation" />
   
   <!-- Advanced Neural Network ASCII Art -->
-
-<pre style="
+  <pre style="
   font-family: 'Courier New', monospace; 
+  color: #00ffcc; 
   background: #0a0a0a; 
-  padding: 1.5rem; /* Decreased padding for a tighter fit */
-  margin: 2rem auto; 
-  border-radius: 12px; 
+  padding: 3%; /* Flexible padding based on container width */
+  margin: 2rem auto; /* Flexible margin, centers the element */
+  border-radius: 16px; 
   display: flex; 
   justify-content: center; 
   align-items: center;
+  flex-direction: column; 
   border: 2px solid #00ffcc; 
+  box-shadow: 0 0 40px rgba(0,255,204,0.2), inset 0 0 40px rgba(0,255,204,0.05); 
   animation: borderPulse 3s ease-in-out infinite; 
   position: relative; 
   overflow: hidden; 
+  line-height: 1.5; 
+  text-shadow: 0 0 10px rgba(0,255,204,0.3);
   box-sizing: border-box;
-  max-width: 600px; /* Decreased container size (was 900px) */
-  width: 90%;
+  max-width: 900px; /* Optional constraint to keep it readable */
+  width: 100%;
 ">
-  <!-- Reflection/Shine Animation Effect -->
-  <div style="
-    position: absolute; 
-    top: 0; 
-    left: -100%; 
-    width: 50%; 
-    height: 100%; 
-    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(0, 255, 204, 0.3) 50%, rgba(255,255,255,0) 100%); 
-    transform: skewX(-30deg); 
-    animation: shineSweep 4s cubic-bezier(0.25, 1, 0.5, 1) infinite; 
-    pointer-events: none; 
-    z-index: 2;">
-  </div>
-  
-  <!-- CRT Scanline effect overlay -->
-  <div class="scan-effect" style="
-    position: absolute; 
-    top: 0; left: 0; right: 0; bottom: 0; 
-    background: linear-gradient(rgba(0,255,204,0.04) 50%, transparent 50%); 
-    background-size: 100% 4px; 
-    pointer-events: none; 
-    z-index: 0;">
-  </div>
+  <!-- Scan effect overlay -->
+  <div class="scan-effect" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0;"></div>
   
   <!-- Banner Image -->
   <img src="https://github.com/itechnology416-collab/ai-banner.svg/blob/fa2b604ab1be68125bdee2c65959abd48d781b04/gemini-svg.svg" 
